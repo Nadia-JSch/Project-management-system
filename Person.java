@@ -1,12 +1,14 @@
 package poised;
 
 public class Person {
+	
+	// defining Person attributes
 	String name;
 	String phoneNumber;
 	String email;
 	String workAddress;
 
-	
+	// Person constructor with all attributes
 	public Person(String name, String phoneNumber, String email, String workAddress) {
 		
 		this.name = name;
@@ -15,7 +17,7 @@ public class Person {
 		this.workAddress = workAddress;
 	}
 
-
+	// Getters and setters for all attributes
 	public String getName() {
 		return name;
 	}
@@ -55,7 +57,7 @@ public class Person {
 		this.workAddress = workAddress;
 	}
 
-
+	// overriding the toString() method to print attribute information
 	@Override
 	public String toString() {
 		String output = "\n--- Personal Information ---";
