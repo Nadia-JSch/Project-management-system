@@ -1,12 +1,19 @@
 # Project-management-system
 
-The first part of a project management system for a fictitious structural engineering firm
+A project management system for a fictitious structural engineering firm that stores information about a project. 
 
 ## Description
 
-This is the first part of an ongoing project. The user is able to create a new project, view and edit some of that information. There is an option to finalise the project which will generate a customer invoice if there is an outstanding amount.
+With the second update to this project users can do the following:
+- Create a new Project
+- Add Contractor to Project
+- Add Architect to Project
+- Change Project due date
+- Change total fee paid 
+- Update Contractor details
+- Finalise Project
 
-This project exercises fundamental Java programming concepts: classes, objects, try-catch, the LocalDate class and input. 
+This project builds upon fundamental Java programming concepts: classes, objects, try-catch, the LocalDate class and input. 
 
 ### Dependencies
 
