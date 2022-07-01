@@ -1,0 +1,97 @@
+
+----------------------- COMPLETED PROJECT DETAILS -----------------------
+--- Project Information ---
+Project number: 	56
+Project name: 		house Tool
+Property type: 		house
+Property address: 	78 How Street
+Property ERF number: 	993
+Project total cost: 	R0,00
+Project amount paid: 	R0,00
+Project deadline: 	2020-12-12
+Project finalised: 	Yes
+
+--- Customer's Information ---
+Name: 		Fred
+Surname: 	Tool
+Phone number: 	256-8975
+Email address: 	hhhh@mail.com
+Work address: 	78 Well Road
+
+--- Contractor's Information ---
+Name: 		Sofi
+Surname: 	Fuza
+Phone number: 	555-6935
+Email address: 	ttt@mail.com
+Work address: 	78 Pot Street
+
+--- Architect's Information ---
+Name: 		Anne
+Surname: 	Wonder
+Phone number: 	558-6325
+Email address: 	pppp@mail.com
+Work address: 	45 Island Street
+----------------------- COMPLETED PROJECT DETAILS -----------------------
+--- Project Information ---
+Project number: 	701
+Project name: 		monument Barns
+Property type: 		monument
+Property address: 	1 Crest Street
+Property ERF number: 	6025
+Project total cost: 	R1000000,00
+Project amount paid: 	R500000,00
+Project deadline: 	2020-10-12
+Project finalised: 	Yes
+
+--- Customer's Information ---
+Name: 		Phylo
+Surname: 	Barns
+Phone number: 	753-9654
+Email address: 	tmad@mail.com
+Work address: 	67 Consa Ave
+
+--- Contractor's Information ---
+Name: 		Sully
+Surname: 	Davids
+Phone number: 	520-6789
+Email address: 	iyyhnk@mail.com
+Work address: 	67 Robot Road
+
+--- Architect's Information ---
+Name: 		Jens
+Surname: 	Soltenberg
+Phone number: 	753-1598
+Email address: 	uyt@mail.com
+Work address: 	78 Dream Street
+----------------------- COMPLETED PROJECT DETAILS -----------------------
+--- Project Information ---
+Project number: 	7700
+Project name: 		shopping mall Slater
+Property type: 		shopping mall
+Property address: 	45 Island Street
+Property ERF number: 	159000
+Project total cost: 	R500000000,00
+Project amount paid: 	R10000000,00
+Project deadline: 	2023-08-14
+Project finalised: 	Yes
+
+--- Customer's Information ---
+Name: 		Rose
+Surname: 	Slater
+Phone number: 	123-7891
+Email address: 	gyut@mail.com
+Work address: 	67 Almond Street
+
+--- Contractor's Information ---
+Name: 		Ernest
+Surname: 	Fide
+Phone number: 	785-9630
+Email address: 	yummm@mail.com
+Work address: 	6 Industry Drive
+
+--- Architect's Information ---
+Name: 		Thion
+Surname: 	Pews
+Phone number: 	456-9701
+Email address: 	uyuiyiu@mail.com
+Work address: 	7 Cotton Road.
