@@ -60,7 +60,7 @@ Java docs were added to classes, methods and the poised package.
 
 
 ### Search Menu Screenshot
-![Poised search menu](Poised search menu.png)
+![Poised search menu](https://github.com/Nadia-JSch/Project-management-system/blob/master/Poised%20search%20menu.png)
 
 ### Code Snippet
 
