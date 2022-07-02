@@ -40,7 +40,7 @@ Largely refacted the code:
 - Added more descriptive names
 
 
-### Third Submission (final version )
+### Third Submission (final, called Version 1)
 Multiple projects are finally able to be created, which allowed for the functionality of searching through project to view and edit them. Also, the funcionality to see over due and current projects were added as a result of utilizing the Java Collections Framework.
 
 A further addition, is the ability to store data by writing (and reading) object information to text files.
