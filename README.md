@@ -84,3 +84,10 @@ public static List<Project> createProjList() {
 					aNewProject.setArchitect(architectObj);
 ```
 
+## Author
+
+Nadia Schmidtke [Email me](https://nadia-jsch.github.io/Nadia-Schmidtke-Webpages/Contact.html)
+
+## License
+
+This project is licensed under the [GNU GENERAL PUBLIC LICENSE](https://github.com/Nadia-JSch/Project-management-system/blob/master/LICENSE).
