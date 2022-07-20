@@ -90,4 +90,4 @@ Nadia Schmidtke [Email me](https://nadia-jsch.github.io/Nadia-Schmidtke-Webpages
 
 ## License
 
-This project is licensed under the [GNU GENERAL PUBLIC LICENSE](https://github.com/Nadia-JSch/Project-management-system/blob/master/LICENSE).
+This project is licensed under the [MIT LICENSE](https://github.com/Nadia-JSch/Shoe-inventory/blob/master/LICENSE).
